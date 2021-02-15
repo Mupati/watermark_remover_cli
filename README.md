@@ -1,0 +1,1 @@
+# A command line tool for removing watermarks in images and PDFs
